@@ -19,7 +19,7 @@ sections:
     subtitle: An optional subtitle of the section
     projects_number: 6
     view_all_label: View All
-    view_all_url: portfolio
+    view_all_url: 'https://instagram.com/dailycouplemeals'
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
